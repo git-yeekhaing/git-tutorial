@@ -3,4 +3,4 @@ Gitチュートリアル
 -feature B testing
 -feature reset testing
 -fix featuretesting
-
+-feature-C
